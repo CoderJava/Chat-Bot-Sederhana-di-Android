@@ -1,0 +1,4 @@
+#Sat Jan 28 15:40:08 WIB 2017
+base.0=/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

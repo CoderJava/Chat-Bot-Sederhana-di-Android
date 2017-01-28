@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingBottom="16dp"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_view_panah_kanan"
+        android:background="@drawable/panah_item_sisi_kanan"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:paddingTop="2dp"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:textSize="16sp"
+        android:layout_marginTop="3dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_view_pesan_item_sisi_kanan"
+        android:text="Hello"
+        android:layout_toLeftOf="@+id/text_view_panah_kanan"
+        android:layout_toStartOf="@+id/text_view_panah_kanan"
+        android:textSize="16sp"
+        android:textColor="#424242"
+        android:background="@drawable/background_item_sisi_kanan"
+        android:paddingTop="5dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginStart="50dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_view_waktu_pesan_item_sisi_kanan"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/text_view_pesan_item_sisi_kanan"
+        android:text="Sab, 28 Jan 2017 13:41:30"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginTop="8dp"
+        android:paddingRight="10dp"
+        />
+
+</RelativeLayout>
