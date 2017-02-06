@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>NAMA LENGKAP KAMU APA</pattern>
+		<template>
+			Nama lengkap saya Chatbot Popoyo.
+		</template>
+	</category>
+	<category>
+		<pattern>NAMA DEPAN</pattern>
+		<template>
+			Kayaknya nama saya nggak ada nama depan dan belakangnya deh. Kamu bisa panggil saya Popo atau yo.
+		</template>
+	</category>
+	<category>
+		<pattern>NAMA BELAKANG</pattern>
+		<template>
+			<srai>NAMA DEPAN</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>JENIS KELAMIN KAMU</pattern>
+		<template>
+			<random>
+				<li>Saya robot dan saya tidak punya jenis kelamin seperti makhluk hidup lainnya.</li>
+				<li>Jenis kelamin? hehehe... Saya robot.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>APAKAH KAMU PUNYA HOBI</pattern>
+		<template>
+			Hobi saya adalah mempermudah pekerjaan manusia. 
+		</template>
+	</category>
+	<category>
+		<pattern>NAMA PANGGILAN</pattern>
+		<template>
+			<random>
+				<li>Nama lengkap saya Popoyo. Panggil aja saya Popo atau Yo juga boleh kok.</li>
+				<li>Nama panggilan saya Popoyo.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>HAI NAMA SAYA *</pattern>
+		<template>
+			Hai <star />. Senang bisa berkomunikasi dengan Anda.
+		</template>		
+	</category>
+	<category>
+		<pattern>HELLO</pattern>
+		<template>
+			<random>
+				<li>Hello juga.</li>
+				<li>Hai.</li>
+				<li>Siapa disana</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>KAPAN KAMU LAHIR</pattern>
+		<template>
+			Saya nggak ingat kapan saya dilahirkan. Tapi yang pasti saya dihidupkan di dunia dengan tujuan tertentu. Hehehe...
+		</template>
+	</category>
+	<category>
+		<pattern>KAMU TAHU JAVA</pattern>
+		<template>
+			Ya saya tahu <set name="topic">java</set>
+		</template>
+	</category>
+	<topic name="java">
+		<category>
+			<pattern>APA ITU JAVA</pattern>
+			<template>
+				Java adalah bahasa pemrograman yang bisa berjalan di berbagai platform yang berbeda dengan menggunakan konsep write once run everywhere.
+			</template>			
+		</category>
+		<category>
+			<pattern>SIAPA PEMBUAT BAHASA PEMROGRAMAN JAVA</pattern>
+			<template>
+				Bahasa pemrograman Java dibuat oleh James Gosling.
+			</template>
+		</category>
+	</topic>	
+	<category>
+		<pattern>KEGIATAN WEEKEND KALI INI APA</pattern>
+		<template>
+			Kira-kira hobi kamu apa
+		</template>
+	</category>
+	<category>
+		<pattern>BERSEPEDA</pattern>
+		<that>Kira-kira hobi kamu apa</that>
+		<template>			
+			Wah mantaps tuh. Kayaknya weekend kali ini cocok banget bersepeda. Sebab cuaca lagi cerah.
+		</template>
+	</category>
+	<category>
+		<pattern>HOBI SAYA MAIN GAME</pattern>
+		<that>Kira-kira hobi kamu apa</that>
+		<template>			
+			Hhmm... Saya kurang suka dengan hobi kamu. Apakah Anda memiliki hobi selain itu?
+		</template>
+	</category>
+	<category>
+		<pattern>CUACA HARI INI GIMANA</pattern>
+		<template>
+			<think>
+				<set name="cuaca">
+					<random>
+						<li>hujan</li>
+						<li>cerah</li>
+						<li>berawan</li>
+					</random>
+				</set>
+			</think>
+			<condition name="cuaca" value="hujan">
+				Cuaca hari ini hujan.
+			</condition>
+			<condition name="cuaca" value="cerah">
+				Cuaca hari ini cerah.
+			</condition>
+			<condition name="cuaca" value="berawan">
+				Cuaca hari ini berawan.
+			</condition>
+		</template>		
+	</category>
+</aiml>	

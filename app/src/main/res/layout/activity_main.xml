@@ -23,8 +23,7 @@
         android:paddingBottom="@dimen/activity_vertical_margin"
         android:paddingLeft="@dimen/activity_horizontal_margin"
         android:layout_above="@+id/floating_action_button_kirim_pesan"
-
-        ></android.support.v7.widget.RecyclerView>
+        />
 
     <EditText
         android:layout_width="match_parent"

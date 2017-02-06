@@ -44,12 +44,12 @@
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
@@ -72,16 +72,16 @@
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/src/main/res/drawable/panah_item_sisi_kanan.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/background_item_sisi_kiri.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/src/main/res/drawable/background_item_sisi_kiri.xml"
     },
     {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/background_item_sisi_kiri.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/src/main/res/drawable/background_item_sisi_kiri.xml"
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_text_cursor_material.xml"
     },
     {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
@@ -120,20 +120,20 @@
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/panah_item_sisi_kiri.xml",
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/src/main/res/drawable/panah_item_sisi_kiri.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable/abc_ratingbar_material.xml"
     },
     {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",

@@ -36,12 +36,12 @@
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/item_sisi_kiri.xml",
@@ -60,12 +60,12 @@
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
     },
     {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
@@ -160,12 +160,12 @@
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
@@ -180,12 +180,12 @@
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
-    },
-    {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
@@ -216,15 +216,15 @@
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
     }
 ]

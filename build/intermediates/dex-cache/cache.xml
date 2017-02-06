@@ -111,6 +111,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/libs/Alicebot.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af7496189919b4d17d8edff988421623653cc8b1">
+        <dex dex="/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/pre-dexed/debug/Alicebot_aba0f70369dcfa8b64bd033dd556ce372af99b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/yudi/AndroidStudioProjects/Codepoilitan-ChatLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
